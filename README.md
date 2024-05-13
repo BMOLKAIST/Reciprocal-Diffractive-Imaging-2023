@@ -4,3 +4,6 @@ Code and data for "Noninterferometric stand-alone single-shot holographic camera
 MATLAB R2022b implementation
 
 Copyright: BMOLKAIST Jeonghun Oh
+
+ * A minor change was made in the main code for revision of the misnamed subcode. (20240513)
+   
