@@ -62,7 +62,7 @@ for ii = 1:1500
 
     temp2 = g_k;
 
-    if corr_c(temp2, temp0) > 0.99999
+    if corr_c(temp2, temp0) > 0.999999
         break;
     end    
 end
